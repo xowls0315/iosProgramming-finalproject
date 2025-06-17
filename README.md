@@ -3,7 +3,9 @@
 Swift로 제작된 iOS 미니 프로젝트로, 커플을 위한 D-Day 계산기 및 감성 배경 음악 재생 기능을 제공합니다.
 
 <br/>
-**발표영상(Youtube): https://youtu.be/ROvpBN_RnQI**
+발표영상(Youtube): https://youtu.be/ROvpBN_RnQI
+<br />
+<br />
 
 ## 📱 주요 기능
 
