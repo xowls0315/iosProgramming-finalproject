@@ -47,10 +47,22 @@ Swift로 제작된 iOS 미니 프로젝트로, 커플을 위한 D-Day 계산기 
 
 ## 📸 실행 화면
 
-- 메인화면 <br />
-<img src="https://github.com/user-attachments/assets/d2c87ec5-c9a4-4f7a-a63b-82c5bd2f7eb8" width="250"/>
-<br /> <br />
-
-- 날짜 설정 후 화면 <br />
-<img src="https://github.com/user-attachments/assets/68773612-80af-4f46-a634-e5890bea91ed" width="250"/>
+<table>
+  <tr>
+    <th style="text-align:center;">메인 화면</th>
+    <th style="text-align:center;">날짜 설정 후 화면</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <div style="background-color:#f5f5f5; padding:10px; border-radius:12px; display:inline-block;">
+        <img src="https://github.com/user-attachments/assets/d2c87ec5-c9a4-4f7a-a63b-82c5bd2f7eb8" width="250" style="border-radius:12px;" />
+      </div>
+    </td>
+    <td align="center">
+      <div style="background-color:#f5f5f5; padding:10px; border-radius:12px; display:inline-block;">
+        <img src="https://github.com/user-attachments/assets/68773612-80af-4f46-a634-e5890bea91ed" width="250" style="border-radius:12px;" />
+      </div>
+    </td>
+  </tr>
+</table>
 
